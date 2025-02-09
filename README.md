@@ -1,5 +1,7 @@
 # Obsidian-Working-Progress-Tracker.
 
+# For english users, read eng section.
+
 아무도 안 만들어서 내가 만든 옵시디안 플러그인 
 
 스테이터스바를 이용한 간단한 플러그인 입니다.
@@ -15,8 +17,10 @@
 
    ![image](https://github.com/user-attachments/assets/c69ea832-19fa-4918-80d7-051f8cdb1f9b)
 
+   Input 후에 활성화 되기 때문에 팝업을 열고 한 글자라도 치셔야 제대로 표시됩니다.
+
    
-2. 메인 윈도우에서 작업 시간 확인 가능.
+3. 메인 윈도우에서 작업 시간 확인 가능.
    
 ![image](https://github.com/user-attachments/assets/8bbe360e-177b-49dc-8ccc-9214c3289aaa)
 
@@ -45,7 +49,9 @@
 그렇다면 부디 불쌍한 작가에게 기부를...
 
 
-###
+### For ENG 
+
+
 Made it cause I couldn't find one.
 
 This is a simple plugin adding few functions on the core obsidian plugin status-bar and add status bar on the popup window (new window).
@@ -57,6 +63,9 @@ I'm not really good at coding, so there might be a problem. If you face any issu
 1. The main purpose of this script is to make a status bar on the popup window.
 
 ![image](https://github.com/user-attachments/assets/a500430b-e6ce-43bd-b972-5d5df647e8a1)
+
+#Keep in mind the plugin innitiate after input.
+
 
 2. Working hour counts.
 
