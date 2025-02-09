@@ -1,4 +1,5 @@
 # Obsidian-Working-Progress-Tracker.
+
 아무도 안 만들어서 내가 만든 플러그인 
 
 스테이터스바를 이용한 간단한 플러그인 입니다.
