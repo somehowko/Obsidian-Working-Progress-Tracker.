@@ -1,0 +1,11 @@
+{
+	"id": "Obsidian-Working-Progress-Tracker",
+	"name": "Obsidian-Working-Progress-Tracker",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Adding few features to track your working progress in Obsidian with status bar.",	
+	"author": "somehowko",
+	"authorUrl": "github.com/somehowko/Obsidian-Working-Progress-Tracker",
+	"fundingUrl": "https://www.buymeacoffee.com/somehowko",	
+	"isDesktopOnly": true
+}
